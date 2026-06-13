@@ -16,8 +16,7 @@ namespace SpotifyApiServer
             public object Lock { get; } = new object();
 
         }
-
-
+        
         private readonly Dictionary<string, CacheItem> _storage = new Dictionary<string, CacheItem>();
         private readonly object _lock = new object();
         private readonly TimeSpan _timeToLive;
@@ -26,12 +25,12 @@ namespace SpotifyApiServer
         {
             _timeToLive = ttl;
 
-
             Thread cleanerThread = new Thread(ActiveCacheCleanup)
             {
                 IsBackground = true,
                 Name = "Thread-CacheCleaner"
             };
+            
             cleanerThread.Start();
         }
 
@@ -83,7 +82,7 @@ namespace SpotifyApiServer
                     _storage[key] = tempItem;
                     Logger.Log($"[CACHE MISS] Created new entry for : {key}");
                 }
-
+                
                 item = tempItem;
             }
 
