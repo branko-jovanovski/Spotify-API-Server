@@ -79,7 +79,6 @@ namespace SpotifyApiServer
                             var ctx = _requestQueue.Dequeue();
                             if (ctx != null)
                             {
-
                                 ProcessSingleRequest(ctx);
                             }
                         });
