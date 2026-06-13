@@ -1,0 +1,14 @@
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/bin/Debug/net10.0/Spotify-Server-StressTest
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/bin/Debug/net10.0/Spotify-Server-StressTest.deps.json
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/bin/Debug/net10.0/Spotify-Server-StressTest.runtimeconfig.json
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/bin/Debug/net10.0/Spotify-Server-StressTest.dll
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/bin/Debug/net10.0/Spotify-Server-StressTest.pdb
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.AssemblyInfoInputs.cache
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.AssemblyInfo.cs
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.csproj.CoreCompileInputs.cache
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.dll
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/refint/Spotify-Server-StressTest.dll
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.pdb
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/Spotify-Server-StressTest.genruntimeconfig.cache
+/Users/branko/Documents/GitHub/Spotify-API-Server/Spotify-Server-StressTest/obj/Debug/net10.0/ref/Spotify-Server-StressTest.dll
