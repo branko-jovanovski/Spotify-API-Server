@@ -21,7 +21,6 @@ namespace SpotifyApiServer
 
         private readonly HttpClient _httpClient = new HttpClient();
 
-
         public SpotifyApiClient()
         {
             try
@@ -49,7 +48,6 @@ namespace SpotifyApiServer
 
             lock (_tokenLock)
             {
-
                 if (DateTime.Now >= _tokenExpiry)
                 {
                     Logger.Log("[API] Fetching new Spotify Access token...");
